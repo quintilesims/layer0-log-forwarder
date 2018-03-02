@@ -22,6 +22,9 @@ The node.js lambda function source code can be found with the `/src` directory. 
 
 To run and test the lambda function locally, you can do so by running the following command after you've set the required environment variables:
 ```
+// if it is the first time you've cloned the project
+npm install
+
 node-lambda run
 ```
 
