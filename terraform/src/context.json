@@ -1,0 +1,4 @@
+{
+    "logGroupName": "log-group-name",
+    "logStreamName": "aws/lambda/123"
+}

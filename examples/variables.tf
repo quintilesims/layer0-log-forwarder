@@ -1,0 +1,10 @@
+variable "endpoint" {}
+variable "token" {}
+variable "access_key" {}
+variable "secret_key" {}
+variable "region" {}
+variable "kinesis_stream_name" {}
+variable "stream_aws_access_key" {}
+variable "stream_aws_secret_key" {}
+variable "stream_aws_region" {}
+variable "layer0_prefix" {}
